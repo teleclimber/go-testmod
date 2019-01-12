@@ -1,1 +1,1 @@
-module github.com/teleclimber/go-testmod
+module github.com/teleclimber/go-testmod/v2
